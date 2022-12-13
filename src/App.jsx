@@ -10,7 +10,7 @@ import Pasatiempo from './components/Pasatiempo'
 import MyComidaFavorita from './components/MyComidaFavorita'
 import MyStack from './components/MyStack'
 
-import Header from './components/header'
+import Header from './components/Header'
 
 function App() {
   const [count, setCount] = useState(0)
